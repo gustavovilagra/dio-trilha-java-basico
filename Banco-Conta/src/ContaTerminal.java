@@ -13,7 +13,7 @@ public class ContaTerminal {
 
         do {
             System.out.println("+====================================+");
-            System.out.println("|    *******Fuctura Bank*******      |");
+            System.out.println("|    *******Dio Bank*******      |");
             System.out.println("|          MENU DE OPCOES            |");
             System.out.println("|        1 - Inserir dados           |");
             System.out.println("|        2 - Mostrar dados           |");
